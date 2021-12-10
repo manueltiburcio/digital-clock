@@ -1,4 +1,4 @@
 # digital-clock
 
-Simple digital clock made with vanilla JavaScript
+Simple digital clock made with JavaScript
 
